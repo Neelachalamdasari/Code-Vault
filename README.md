@@ -68,13 +68,13 @@ This mirrors real-world systems where Git and hosting platforms operate as separ
 
 ## 🚀 Running the Project Locally
 
-### Backend
+
 ```bash
 cd backend
 npm install
 node index.js start
-### Frontend
-```bash
+
+
 cd frontend
 npm install
 npm run dev
